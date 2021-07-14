@@ -1,5 +1,6 @@
 {
     "name": "00001-a-man-started-walking-poem",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
